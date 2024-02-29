@@ -39,8 +39,7 @@ I'm diving into this dataset to uncover trends, identify anomalies, and prepare 
    - Validated ride IDs and station names.
    - Created new features (e.g., day of the week, season).
   
---sorted duration/season/day
-SELECT ride_id, TIMEDIFF(ended_at, started_at) AS ride_length, member_casual,
+[Uploading sorted_duration_season_day.sql…]SELECT TIMEDIFF(ended_at, started_at) AS ride_length, member_casual,
 CASE 
 WHEN WEEKDAY(started_at) = 0 THEN "Sunday" 
 WHEN WEEKDAY(started_at) = 1 THEN "Monday"
@@ -61,8 +60,12 @@ WHEN DATE(started_at) BETWEEN '2023-12-01' AND '2023-12-31' THEN "Winter"
 ELSE "Error"
 END AS season
 
+FROM `bike`.`december`
 
-FROM `bike_share`.`Bike_Rides`
+
+
+()
+
 
 
 3. **Data Visualization:**
