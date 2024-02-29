@@ -17,5 +17,5 @@ Hello! I’m Hanna, and I come from an analytical background in Financial. Curre
 
 The thrill of discovering new insights motivates me. I love digging into data to find hidden gems. Using data to solve intricate problems gives me immense satisfaction. I enjoy collaborating with others to tackle data challenges effectively.
 
-## [PDF Resume] () 
+## [PDF Resume] (Hanna Stepanova.pdf) 
 Feel free to check out my CV in PDF format to learn more about my background and experiences.
