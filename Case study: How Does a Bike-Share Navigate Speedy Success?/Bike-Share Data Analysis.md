@@ -52,8 +52,6 @@ I'm diving into this dataset to uncover trends, identify anomalies, and prepare 
 - Excluded records with incomplete information (e.g., missing start/end stations).
 - Removed outliers beyond reasonable trip durations.
 
-"<p><em> <a href=\https://1drv.ms/i/s!Aq-HOxPsL9l53wBF8PLC_uaClWV7</a>"
-
 ## Summary
 In this project, I explored usage trends for Cyclistic, a bike-sharing company. By analyzing over 5 million records, I discovered the following key findings:
 
