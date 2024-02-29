@@ -1,6 +1,7 @@
 # ABOUT ME
 
-![hanna](https://github.com/hannastep/Data_Analyst_Portfolio/assets/110190886/23422436-1b68-4669-b88f-1f07ec010f21)
+![hanna copy](https://github.com/hannastep/Data_Analyst_Portfolio/assets/110190886/d4c97c89-72de-4cf2-b903-379e93c94cde)
+
 
 Hello! I’m Hanna, and I come from an analytical background in Financial. Currently, I’m on a journey to transition my career path and become a data analyst. My passion lies in using data to uncover meaningful insights, and I’m excited to bring my technical and analytical skills to the field.
 
