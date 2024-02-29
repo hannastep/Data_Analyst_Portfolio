@@ -38,6 +38,33 @@ I'm diving into this dataset to uncover trends, identify anomalies, and prepare 
    - Cleaned timestamp formats and converted them to datetime objects.
    - Validated ride IDs and station names.
    - Created new features (e.g., day of the week, season).
+  
+--sorted duration/season/day
+SELECT ride_id, TIMEDIFF(ended_at, started_at) AS ride_length, member_casual,
+CASE 
+WHEN WEEKDAY(started_at) = 0 THEN "Sunday" 
+WHEN WEEKDAY(started_at) = 1 THEN "Monday"
+WHEN WEEKDAY(started_at) = 2 THEN "Tuesday"
+WHEN WEEKDAY(started_at) = 3 THEN "Wednesday"
+WHEN WEEKDAY(started_at) = 4 THEN "Thursday"
+WHEN WEEKDAY(started_at) = 5 THEN "Friday"
+WHEN WEEKDAY(started_at) = 6 THEN "Saturday"
+ELSE "Error"
+END AS weekday,
+
+CASE 
+WHEN DATE(started_at) BETWEEN '2023-01-01' AND '2023-02-28' THEN "Winter"
+WHEN DATE(started_at) BETWEEN '2023-03-01' AND '2023-05-31' THEN "Spring"
+WHEN DATE(started_at) BETWEEN '2023-06-01' AND '2023-08-31' THEN "Summer"
+WHEN DATE(started_at) BETWEEN '2023-09-01' AND '2023-11-30' THEN "Fall"
+WHEN DATE(started_at) BETWEEN '2023-12-01' AND '2023-12-31' THEN "Winter"
+ELSE "Error"
+END AS season
+
+
+FROM `bike_share`.`Bike_Rides`
+
+
 3. **Data Visualization:**
    - Utilized Tableau to create an interactive dashboard.
    - Highlighted key insights for stakeholders.
