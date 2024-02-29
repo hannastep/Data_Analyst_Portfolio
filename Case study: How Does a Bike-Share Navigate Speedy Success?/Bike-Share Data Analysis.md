@@ -52,7 +52,8 @@ I'm diving into this dataset to uncover trends, identify anomalies, and prepare 
 - Excluded records with incomplete information (e.g., missing start/end stations).
 - Removed outliers beyond reasonable trip durations.
 
-![Dashboard1](https://github.com/hannastep/Data_Analyst_Portfolio/assets/110190886/c3e6469f-9366-478c-a079-c3a124c8e8bd)
+![Dashboard1](https://github.com/hannastep/Data_Analyst_Portfolio/assets/110190886/65ebae63-22a6-48ac-93cb-e98a1f6ef919)
+
 
 
 ## Summary
