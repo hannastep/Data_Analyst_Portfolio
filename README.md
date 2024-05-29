@@ -27,6 +27,6 @@ The thrill of discovering new insights motivates me. I love digging into data to
 Feel free to check out my CV in PDF format to learn more about my background and experiences.
 
 ## My Projects
-[Bike Share Project: R](https://github.com/hannastep/Data_Analyst_Portfolio/tree/cab96844e38e0f2bd6c4d75ecda73758a475b240/Bike_Share_Project_with_R) <br>
-[Case Study: SQL & Tableau](https://github.com/hannastep/Data_Analyst_Portfolio/tree/cab96844e38e0f2bd6c4d75ecda73758a475b240/Case%20study%3A%20How%20Does%20a%20Bike-Share%20Navigate%20Speedy%20Success%3F)
+[Bike Share Project: R]([https://github.com/hannastep/Data_Analyst_Portfolio/tree/cab96844e38e0f2bd6c4d75ecda73758a475b240/Bike_Share_Project_with_R](https://github.com/hannastep/Data_Analyst_Portfolio/blob/cab96844e38e0f2bd6c4d75ecda73758a475b240/Bike_Share_Project_with_R/Bike_rides_R.ipynb)) <br>
+[Case Study: SQL & Tableau]([https://github.com/hannastep/Data_Analyst_Portfolio/tree/cab96844e38e0f2bd6c4d75ecda73758a475b240/Case%20study%3A%20How%20Does%20a%20Bike-Share%20Navigate%20Speedy%20Success%3F](https://github.com/hannastep/Data_Analyst_Portfolio/blob/cab96844e38e0f2bd6c4d75ecda73758a475b240/Case%20study%3A%20How%20Does%20a%20Bike-Share%20Navigate%20Speedy%20Success%3F/Bike-Share%20Data%20Analysis.md))
 
