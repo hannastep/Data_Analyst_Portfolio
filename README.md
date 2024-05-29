@@ -25,3 +25,8 @@ The thrill of discovering new insights motivates me. I love digging into data to
 
 ## [PDF Resume Hanna Stepanova.pdf](https://github.com/hannastep/Data_Analyst_Portfolio/blob/main/Hanna%20Stepanova.pdf)
 Feel free to check out my CV in PDF format to learn more about my background and experiences.
+
+## My Projects
+[Bike Share Project: R](https://github.com/hannastep/Data_Analyst_Portfolio/tree/cab96844e38e0f2bd6c4d75ecda73758a475b240/Bike_Share_Project_with_R)
+[Case Study: SQL & Tableau](https://github.com/hannastep/Data_Analyst_Portfolio/tree/cab96844e38e0f2bd6c4d75ecda73758a475b240/Case%20study%3A%20How%20Does%20a%20Bike-Share%20Navigate%20Speedy%20Success%3F)
+
